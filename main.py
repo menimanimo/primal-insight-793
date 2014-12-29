@@ -1,5 +1,3 @@
-# If you have not yet seen the source in basic/main.py, please take a look.
-
 import endpoints
 
 from google.appengine.ext import ndb
